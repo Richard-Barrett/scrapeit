@@ -1,5 +1,5 @@
 # Scrapemind
-![Image](https://github.com/Mirantis/dataeng/blob/main/.assets/logos/dataeng_logo_1.png)
+![Image](https://github.com/Richard-Barrett/scrapemind/blob/main/.assets/logos/Screen%20Shot%202021-11-13%20at%201.33.23%20PM.png)
 
 The dataeng project is dedicated to storing all data interactions across an organization as IaC.
 It provides a Command Line Interface to interact witht the various software tools that are used on a daily basis. 
