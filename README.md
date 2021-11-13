@@ -8,52 +8,52 @@ It also provides an anlaysis perspective, and offers a wide variety of tooling i
 ## Repository Structure
 This repository is loosely organized into 11 main categories:
 
-1. [.R](https://github.com/Mirantis/dataeng/tree/main/.R)
+1. [.R](https://github.com/Richard-Barrett/scrapemind/tree/main/.R)
     - A configuration and secrets directory for all things R
 
-2. [.assets](https://github.com/Mirantis/dataeng/tree/main/.assets)
+2. [.assets](https://github.com/Richard-Barrett/scrapemind/tree/main/.assets)
     - An assets directory housing images and assets used throughout the directory (EACH FILE HAS AN MD5SUM TO VERIFY FILE INTEGRITY)
 
-3. [.docker](https://github.com/Mirantis/dataeng/tree/main/.docker)
+3. [.docker](https://github.com/Richard-Barrett/scrapemind/tree/main/.docker)
     - A configuration and secrets directory for all things docker 
 
-4. [.github](https://github.com/Mirantis/dataeng/tree/main/.github/)
+4. [.github](https://github.com/Richard-Barrett/scrapemind/tree/main/.github/)
     - A configuration and secrets directory for all things github
 
-5. [.kube](https://github.com/Mirantis/dataeng/tree/main/.kube)
+5. [.kube](https://github.com/Richard-Barrett/scrapemind/tree/main/.kube)
     - A configuration and secrets directory for all things kubernetes
 
-6. [.secrets](https://github.com/Mirantis/dataeng/tree/main/.secrets)
+6. [.secrets](https://github.com/Richard-Barrett/scrapemind/tree/main/.secrets)
     - A configuration and secrets directory for all things secret
 
-7. [Analyses](https://github.com/Mirantis/dataeng/tree/main/Analyses)
+7. [Analyses](https://github.com/Richard-Barrett/scrapemind/tree/main/Analyses)
     - The Analyses directory that houses a variety of analyses across multiple toolings
 
-8. [Applications](https://github.com/Mirantis/dataeng/tree/main/Applications)
+8. [Applications](https://github.com/Richard-Barrett/scrapemind/tree/main/Applications)
     - The Applications directory houses any and all affiliated applications to the housing repository
 
-9. [Automation](https://github.com/Mirantis/dataeng/tree/main/Automation)
+9. [Automation](https://github.com/Richard-Barrett/scrapemind/tree/main/Automation)
     - The Automation directory will contain automation and tooling for deploying and utilizing the repository
 
-10. [Charts](https://github.com/Mirantis/dataeng/tree/main/Charts)
+10. [Charts](https://github.com/Richard-Barrett/scrapemind/tree/main/Charts)
     - The Charts directory will container Helm Charts related to this repository
 
-11. [Infrastructure](https://github.com/Mirantis/dataeng/tree/main/Infrastructure)
+11. [Infrastructure](https://github.com/Richard-Barrett/scrapemind/tree/main/Infrastructure)
     - The Infrastrucutre directory contains information relate to Ansible and Terraform for continuously deployed infrastructure
 
-12. [Lakes](https://github.com/Mirantis/dataeng/tree/main/Lakes)
+12. [Lakes](https://github.com/Richard-Barrett/scrapemind/tree/main/Lakes)
     - The Lakes Directory will house the information related to any and all data lakes within the organization
 
-13. [Pipelines](https://github.com/Mirantis/dataeng/tree/main/Pipelines)
+13. [Pipelines](https://github.com/Richard-Barrett/scrapemind/tree/main/Pipelines)
     - This will contain any pipelines related to the overall repisitory and is tooling dependent 
 
-14. [Queries](https://github.com/Mirantis/dataeng/tree/main/Queries)
+14. [Queries](https://github.com/Richard-Barrett/scrapemind/tree/main/Queries)
     - The Queries directory contains SQL Like queries that are stored for IaC purposes
 
-15. [Warehouse](https://github.com/Mirantis/dataeng/tree/main/Warehouse)
+15. [Warehouse](https://github.com/Richard-Barrett/scrapemind/tree/main/Warehouse)
     - The Warehouse directory contains information on how to interact with the Data Warehouse for the respective organization
 
-16. [dataengctl](https://github.com/Mirantis/dataeng/tree/main/dataengctl)
+16. [dataengctl](https://github.com/Richard-Barrett/scrapemind/tree/main/dataengctl)
     - The dataengctl houses the binary that allows you to work with a variety of tooling at the organization's disposal
 
 ## Navigating Repository 
